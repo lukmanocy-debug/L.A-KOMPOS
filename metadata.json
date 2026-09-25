@@ -1,0 +1,8 @@
+{
+  "name": "Remix L.A Kompos",
+  "description": "Aplikasi penghitung data produksi ngarungi, analisis laba rugi borongan, dan manajemen stok opnam kotoran hewan (kohe) organik L.A Kompos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
